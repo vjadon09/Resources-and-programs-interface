@@ -2,6 +2,11 @@
 
 This is the module 6 of the project, BizPoints: Loyalty Program Web Portal for AlphaBiz Solutions.
 
+<p align="center">
+  <img src="assets/banner/banner5.png" width="100%" alt="Project Banner">
+</p>
+
+
 ## [Built With] Technologies and Frameworks
 
 1. **Backend**: JavaScript, NodeJS, Express
